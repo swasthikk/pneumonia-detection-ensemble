@@ -10,9 +10,9 @@ This project focuses on building an accurate and reliable pneumonia detection mo
 
 We experimented with:
 
-* EfficientNetB0 ❌
-* MobileNetV2 ✅
-* Ensemble Model (Stacking) 🚀
+* EfficientNetB0
+* MobileNetV2 
+* Ensemble Model
 
 The goal was to compare models and build a robust system suitable for real-world medical applications.
 
@@ -62,9 +62,9 @@ The goal was to compare models and build a robust system suitable for real-world
 
 | Model          | Accuracy   | AUC        | Remarks           |
 | -------------- | ---------- | ---------- | ----------------- |
-| EfficientNetB0 | 70.13%     | 0.798      | Poor performance  |
+| EfficientNetB0 | 81.36%     | 0.828      | Moderate performance  |
 | MobileNetV2    | 93.25%     | 0.9819     | Best single model |
-| Ensemble Model | **96.14%** | **0.9898** | Best overall 🚀   |
+| Ensemble Model | **96.22%** | **0.9872** | Best overall 🚀   |
 
 ---
 

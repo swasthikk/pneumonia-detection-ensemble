@@ -108,7 +108,7 @@ Even though EfficientNet alone performed poorly, it contributed useful features 
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/pneumonia-detection.git
+git clone https://github.com/swasthikk/pneumonia-detection-ensemble.git
 cd pneumonia-detection
 ```
 
